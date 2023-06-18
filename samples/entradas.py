@@ -1,4 +1,5 @@
 # linha = input('digite numeros: ')
+
 # splited = linha.split()
 
 entrada = input().split()
