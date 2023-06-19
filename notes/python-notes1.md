@@ -8,6 +8,7 @@
 a = 2 # int
 a = 2.3 # float
 a = 'matheus' # str
+a = True # bool
 a = [1, 2, 3] # list of ...
 
 # checar o tipo
