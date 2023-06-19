@@ -33,3 +33,10 @@ a = input()
 b = input()
 print(f'soma = {a + b}')
 ```
+
+## Configurando casas decimais
+
+```py
+soma = 23.14159265
+print(f"Resultado {soma:.2f}")
+```
