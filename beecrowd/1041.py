@@ -1,7 +1,6 @@
 linha = input().split()
 x, y = float(linha[0]), float(linha[1])
 
-
 if x == 0 or y == 0:
   if x == 0 and y == 0:
     print('Origem')
