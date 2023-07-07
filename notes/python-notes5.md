@@ -11,6 +11,11 @@ objetivo eh contar de 1 ate 5
 ```py
 while isRaining:
   stayInHome()
+```
+
+```py
+while isRaining:
+  stayInHome()
 else:
   goABeer()
 ```

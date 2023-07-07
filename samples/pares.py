@@ -4,12 +4,14 @@
 
 # escreva todos os pares de 1 ate 100
 
-inicio = 1
+inicio = 2
 fim = 100
 atual = inicio
 
 while atual <= fim:
-  if atual % 2 == 0:
-    print(atual)
-    
-  atual += 1
+  print(atual)    
+  atual += 2
+  
+# restos lidam bem com ciclos
+# 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
+# 0, 1, 2, 0, 1, 2, 0, 1, 2, 0

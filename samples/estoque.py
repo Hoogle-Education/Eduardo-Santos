@@ -31,3 +31,4 @@ while estoque != 0:
 
 print()
 print('fechou a loja')
+
